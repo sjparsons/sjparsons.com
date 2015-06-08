@@ -1,0 +1,11 @@
+
+
+<header class="site-header">
+    <div class="container">
+        {% if page.logo == 'large' %}
+        <a class="site-header__title  site-header__title--large" href="{{ site.baseurl }}/" title="SJParsons">{% include logo-sjparsons.svg %}</a>
+        {% else %}
+        <a  class="site-header__title" href="{{ site.baseurl }}/" title="SJP">{% include logo-sjp.svg %}</a>
+        {% endif %}
+    </div>
+</header>

@@ -1,0 +1,41 @@
+/*------------------------------------*\
+    Component: page-head
+\*------------------------------------*/
+
+
+
+$site-header-border-width:  8px !default;
+$site-header-padding:       2em 0 !default;
+
+
+
+
+.site-header {
+    border-top: $site-header-border-width solid $color-accent;
+    text-align: center;
+    padding: $site-header-padding;
+}
+
+.site-header__title {
+    display: inline-block;
+    width: 36px;
+    height: 25px;
+}            
+.site-header__title--large {
+    width: 215px;
+    height: 51px;
+}
+
+
+.site-header__title .site-header__title--large a
+
+
+
+/* This object is inside the SVG file. */
+.site-title__logo {
+    fill: $color-text;
+}
+
+.site-title__logo:hover {
+    fill: $color-primary;
+}

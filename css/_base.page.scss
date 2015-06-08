@@ -1,0 +1,56 @@
+/*------------------------------------*\
+    #PAGE
+\*------------------------------------*/
+
+
+html {
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+}
+
+body {
+    color: $color-text;
+}
+
+
+hr {
+    margin: 4em auto;
+    width: 75%;
+    height: 1px;
+    border: none;
+    background-color: $color-accent2;
+}
+
+
+figure {
+    margin-right: 0; /* Override generic normalize.*/
+    margin-left: 0;  
+
+    figcaption {
+        font-size: 0.8em;
+    }
+}
+
+/* LINKS */
+
+a, a:link, a:visited, a:hover, a:active {
+    color: $color-primary;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: $color-primary-hue;
+}
+
+a:hover {
+    color: $color-primary-hue;
+    border-bottom: none;
+}   
+
+a:active {
+    color: $color-accent2;
+}
+
+
+

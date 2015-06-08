@@ -1,0 +1,29 @@
+/*------------------------------------*\
+    Component: page-footer
+\*------------------------------------*/
+
+footer {
+    margin-top: 6em;
+    font-size: 0.9em;
+    line-height: 1.25em;
+    padding: 1em 0;
+    background-color: $color-accent;
+    border-bottom: 4px solid rgba(0,0,0,0.25);
+
+
+    a:link, a:visited, a:hover, a:active {
+        font-weight: normal;
+        color: $color-text-medium;    
+    }
+    a:hover {
+        color: $color-primary;
+    }
+
+}
+
+
+.footer__cta {
+    float: right;
+}
+
+

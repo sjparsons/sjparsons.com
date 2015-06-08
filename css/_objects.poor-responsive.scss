@@ -1,0 +1,30 @@
+/*------------------------------------*\
+    Component: poor-responsive
+\*------------------------------------*/
+
+
+$max-content-width: 38rem !default;
+$gutter-sides: 1em;
+
+
+/* This is a poor man's responsive setup. 
+ * It's essentially mobile-only, with a max width
+ * for bigger screens.
+ */
+
+
+.container {
+    margin-left: $gutter-sides;
+    margin-right: $gutter-sides;
+    color: $color-text;
+}
+
+
+@include media-query(lap-and-up) {
+
+    .container {
+        margin: 0 auto;
+        max-width: $max-content-width;
+    }
+
+}

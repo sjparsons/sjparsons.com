@@ -1,0 +1,42 @@
+/*------------------------------------*\
+    Objects: asides
+\*------------------------------------*/
+
+
+.box {
+    padding: 0 1em 0.5em;
+    background-color: $color-accent;
+    border-top: 2px solid rgba(0,0,0,0.15);
+    
+}
+
+
+
+@include media-query(lap-and-up) {
+
+    .box {
+        max-width: 17rem;
+    }
+
+    aside.right-extend {
+        float:right;
+        font-size: 0.9em;
+        max-width: 22rem;
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+
+        figure {
+            margin: 0; /* overide normal spacing to fill the aside */
+        }
+    }
+
+}
+
+@include media-query(desk) {
+
+    aside.right-extend {
+        margin-right: -10rem;
+    }
+
+}
+

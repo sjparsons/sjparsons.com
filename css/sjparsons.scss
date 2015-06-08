@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+
+// SETTINGS
+// Global variables, site-wide settings, config switches, etc.
+
+
+@import "settings.colors";
+
+$inuit-base-font-size:          18px;
+$inuit-base-line-height:        36px;
+$inuit-base-text-color:         $color-text;
+@import "bower_components/inuit-defaults/settings.defaults";
+$inuit-base-spacing-unit:       $inuit-base-spacing-unit/2;
+
+@import "bower_components/inuit-responsive-settings/settings.responsive";
+
+
+
+
+// TOOLS
+// Site-wide mixins and functions.
+
+    // eg @import "tools.aliases";
+
+@import "bower_components/inuit-functions/tools.functions";
+@import "bower_components/inuit-mixins/tools.mixins";
+@import "bower_components/inuit-responsive-tools/tools.responsive";
+
+
+
+
+
+// GENERIC
+// Low-specificity, far-reaching rulesets (e.g. resets).
+
+@import "bower_components/inuit-normalize/generic.normalize";
+@import "bower_components/inuit-box-sizing/generic.box-sizing";
+//@import "bower_components/inuit-shared/generic.shared";
+
+
+
+
+// BASE
+// Unclassed HTML elements (e.g. a {}, blockquote {}, address {}).
+
+    // eg @import "base.links";
+    // eg @import "base.quotes";
+
+@import "bower_components/inuit-page/base.page";
+@import "base.page";
+@import "bower_components/inuit-headings/base.headings";
+
+
+
+
+// OBJECTS
+// Objects, abstractions, and design patterns (e.g. .media {}).
+
+    // eg @import "bower_components/inuit-buttons/objects.buttons";
+    // eg @import "bower_components/inuit-layout/objects.layout";
+    // eg @import "bower_components/inuit-media/objects.media";
+
+@import "objects.asides";
+@import "objects.buttons";
+@import "objects.poor-responsive";
+
+
+
+
+
+// COMPONENTS
+// Discrete, complete chunks of UI (e.g. .carousel {}). 
+// This is the one layer that inuitcss doesn’t get involved with.
+
+    // eg @import "components.page-foot";
+    // eg @import "components.site-nav";
+    // eg @import "components.ads";
+    // eg @import "components.promo";
+
+@import "components.page-head";
+@import "components.page-footer";
+@import "components.profile";
+@import "components.post-fragment";
+@import "components.post";
+
+
+
+// TRUMPS
+// High-specificity, very explicit selectors. Overrides and helper classes (e.g. .hidden {}).
+
+    // eg @import "bower_components/inuit-widths/trumps.widths";
+    // eg @import "bower_components/inuit-spacing/trumps.spacing";

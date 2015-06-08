@@ -1,0 +1,15 @@
+# Site settings
+title: Sam Parsons
+tagline: digital craftstman
+email: sjparsons@gmail.com
+description: "A digital craftsman who designs and builds web sites and studies data science."
+baseurl: ""
+url: "http://sjparsons.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+exclude:
+ - css/bower_components
+ - css/sjparsons.scss
+ - css/watch.sh

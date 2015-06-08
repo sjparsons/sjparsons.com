@@ -1,0 +1,47 @@
+/*------------------------------------*\
+    Component: post-fragment
+\*------------------------------------*/
+
+
+/* This is a post fragment that links to the post.
+ */
+
+
+.post-fragment {
+
+}
+
+
+    h4.post-fragment__title {
+        margin-bottom: 0;
+
+        .post-fragment__title a {
+
+        }
+    } 
+
+    .post-fragment__description {
+        
+    }
+
+    .post-fragment__date {
+        display: inline;
+        font-size: 0.85em;
+        color: $color-text-light;
+    }
+
+    ul.post-fragment__categories {
+        display: inline;
+        padding: 0 0 0 1em;
+        margin: 0;
+        font-size: 0.85em;
+        color: $color-text-light;
+
+        li {
+            display: inline;             
+        }
+        li:before {
+            content: '#';
+        }
+    }
+

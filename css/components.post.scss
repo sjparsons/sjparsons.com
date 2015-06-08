@@ -1,0 +1,50 @@
+/*------------------------------------*\
+    Component: post
+\*------------------------------------*/
+
+
+/* Stylings for a post. Both 'pages' and 'posts' use this style.
+ */
+
+
+.post {
+    @extend .container;
+}
+
+    .post__header {
+
+    }
+
+        .post__title {
+
+        }
+
+        .post__date {
+            display: inline;
+            font-size: 0.85em;
+            color: $color-text-light;
+        }
+
+        .post__categories {
+            display: inline;
+            padding: 0 0 0 1em;
+            margin: 0;
+            font-size: 0.85em;
+            color: $color-text-light;
+
+            li {
+                display: inline;             
+            }
+            li:before {
+                content: '#';
+            }
+        }
+
+    .post__content {
+
+    }
+
+
+
+
+

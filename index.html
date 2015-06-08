@@ -1,0 +1,43 @@
+---
+layout: default
+logo: large
+---
+
+<div class="container">
+ 
+
+    <div class="profile">
+
+        <div class="profile__blurb">Hi, my name is Sam. I’m a <a href="{{site.baseurl}}/about/">digital craftsman</a> who designs and builds web sites and studies data science.</div>
+
+    </div><!-- .profile //-->
+
+    {% for post in site.posts %}
+
+        <article class="post-fragment">
+            <h4 class="post-fragment__title">
+                <a  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h4>
+
+            <div class="post-fragment__description">{{ post.excerpt }}</div>
+
+            <div class="post-fragment__date">{{ post.date | date: "%b %-d, %Y" }}</div>
+
+            {% if post.categories %}
+
+            <ul class="post-fragment__categories">
+                {% for ctg in post.categories %}
+                <li>{{ ctg }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </article>
+          
+    {% endfor %}
+
+
+</div><!-- .container //-->
+  
+
+
+
