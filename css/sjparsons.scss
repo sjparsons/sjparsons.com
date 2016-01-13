@@ -61,9 +61,14 @@ $inuit-base-spacing-unit:       $inuit-base-spacing-unit/2;
     // eg @import "bower_components/inuit-layout/objects.layout";
     // eg @import "bower_components/inuit-media/objects.media";
 
+
 @import "objects.asides";
 @import "objects.buttons";
-@import "objects.poor-responsive";
+@import "objects.concrete";
+@import "objects.generic";
+@import "objects.wrappers";
+
+
 
 
 

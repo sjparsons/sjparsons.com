@@ -1,0 +1,27 @@
+/*------------------------------------*\
+    #WRAPPERS
+\*------------------------------------*/
+
+
+/* The original code for this .wrapper comes from CSS Wizardry */
+
+.wrapper {
+    max-width: 684px;
+    margin: 0 auto;
+    padding-right: $inuit-base-spacing-unit--small;
+    padding-left:  $inuit-base-spacing-unit--small;
+
+    @include media-query(lap-and-up) {
+        padding-right: $inuit-base-spacing-unit;
+        padding-left:  $inuit-base-spacing-unit;
+    }
+
+}
+
+.wrapper--wide {
+    max-width: 1100px;
+}
+
+.wrapper--narrow {
+    max-width: 480px;
+}

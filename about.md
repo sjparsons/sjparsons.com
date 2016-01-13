@@ -15,7 +15,7 @@ permalink: /about/
 
 
 
-I’m currently working as a web developer in the [Digital communications team](http://digitalcommunications.wp.st-andrews.ac.uk/) at the University of St Andrews in Scotland. We’re transforming how the University approaches the web and other digital mediums. We committed to user-centered design, data-driven decisions and agile project management. We’re passionate about meeting the demands of 21st century students and staff. At St Andrews, I created and now maintain a digital pattern library; it’s a vital element of our initiative to achieve a consistent look and feel across the University’s sites and applications. I am actively involved in both the design and strategy for digital products. I also maintain a 150+ site WordPress installation.
+I’m currently working as a web developer in the [Digital communications team](http://digitalcommunications.wp.st-andrews.ac.uk/) at the University of St Andrews in Scotland. We’re transforming how the University approaches the web and other digital mediums. We committed to user-centered design, data-informed decisions and agile project management. We’re passionate about meeting the demands of 21st century students and staff. At St Andrews, I created and now maintain a [digital pattern library](http://digitalcommunications.wp.st-andrews.ac.uk/2015/06/16/an-introduction-to-the-digital-pattern-library/); it’s a vital element of our initiative to achieve a consistent look and feel across the University’s sites and applications. I am actively involved in both the design and strategy for digital products. I also maintain a 150+ site WordPress installation.
 
 
 <aside class="right-extend">
