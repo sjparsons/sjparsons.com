@@ -10,6 +10,8 @@ url: "http://sjparsons.com" # the base hostname & protocol for your site
 markdown: kramdown
 
 exclude:
- - css/bower_components
- - css/sjparsons.scss
- - css/watch.sh
+  - deploy.sh
+  - README.md
+  - css/bower_components
+  - css/sjparsons.scss
+  - css/watch.sh
