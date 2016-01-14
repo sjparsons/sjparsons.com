@@ -1,5 +1,6 @@
 @charset "utf-8";
 
+@import "genericons/genericons.css";
 
 // SETTINGS
 // Global variables, site-wide settings, config switches, etc.
@@ -14,7 +15,6 @@ $inuit-base-text-color:         $color-text;
 $inuit-base-spacing-unit:       $inuit-base-spacing-unit/2;
 
 @import "bower_components/inuit-responsive-settings/settings.responsive";
-
 
 
 
@@ -75,7 +75,7 @@ $inuit-base-spacing-unit:       $inuit-base-spacing-unit/2;
 
 
 // COMPONENTS
-// Discrete, complete chunks of UI (e.g. .carousel {}). 
+// Discrete, complete chunks of UI (e.g. .carousel {}).
 // This is the one layer that inuitcss doesn’t get involved with.
 
     // eg @import "components.page-foot";

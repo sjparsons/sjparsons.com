@@ -13,7 +13,7 @@ footer {
 
     a:link, a:visited, a:hover, a:active {
         font-weight: normal;
-        color: $color-text-medium;    
+        color: $color-text-medium;
     }
     a:hover {
         color: $color-primary;
@@ -26,4 +26,7 @@ footer {
     float: right;
 }
 
-
+.footer__social .genericon {
+    font-size: 24px;
+    margin-right: 10px;
+}
