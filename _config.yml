@@ -6,6 +6,8 @@ description: "I'm a digital craftsman who designs and builds web sites and appli
 baseurl: ""
 url: "http://sjparsons.com" # the base hostname & protocol for your site
 
+permalink: "/:year/:month/:day/:title"
+
 # Build settings
 markdown: kramdown
 
