@@ -5,6 +5,7 @@ email: sjparsons@gmail.com
 description: "I'm a digital craftsman who designs and builds web sites and applications."
 baseurl: ""
 url: "http://sjparsons.com" # the base hostname & protocol for your site
+twitter: sjparsons
 
 permalink: "/:year/:month/:day/:title"
 

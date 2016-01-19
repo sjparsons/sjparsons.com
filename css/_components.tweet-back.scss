@@ -1,0 +1,20 @@
+/*------------------------------------*\
+    Component: tweet-back
+\*------------------------------------*/
+
+/**
+ * Styles for the very basic tweet-back button at the button of posts.
+ */
+
+.tweet-back {
+
+  border-top: 1px solid $color-accent;
+  padding: 1em 0;
+
+  &__icon {
+    font-size: 24px;
+    margin-right: 4px;
+
+    vertical-align: text-top;
+  }
+}
