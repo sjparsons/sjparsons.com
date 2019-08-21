@@ -27,7 +27,7 @@ Although some may be more inclined to this principle than others, I contend that
 
 **In meetings**, take notes on the key points, new information, and action points. Having these notes and being able to refer back to them will prove exceptionally valuable. You can do this collaboratively if you're leading the meeting, but you also gain a lot of value personally from doing this even if you're the only one who gets the notes. Having coherent notes is a lot like having a time machine. 
 
-**When you answer a question,** write it up in a way that you can share it not only with the person who asked but also for others who may have that same question. You can then broadcast and mutliple your impact with the same effort by an order of magnitude (or more). This idea is practiced by many folks, but I've recently heard Kent C Dodds talk about this idea. 
+**When you answer a question,** write it up in a way that you can share it not only with the person who asked but also for others who may have that same question. You can then broadcast and multiply your impact with the same effort by an order of magnitude (or more). This idea is practiced by many folks, but I've recently heard Kent C Dodds talk about this idea. 
 
 **When you encounter a topic for a standing meeting**, add it to a shared living document for next topics for that meeting.
 
