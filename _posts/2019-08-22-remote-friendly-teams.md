@@ -34,7 +34,7 @@ Some teams may have been accustomed to using physical artifacts such as a kanban
 
 **Discussions and decisions from meetings are documented**
 
-Documenting decisions makes a place more remote-friendly, but it does more than that, it actually makes it better and more efficient for everyone. [Always be capturing](#)
+Documenting decisions makes a place more remote-friendly, but it does more than that, it actually makes it better and more efficient for everyone. [Always be capturing](/2019/08/21/always-be-capturing).
 
 
 **Video conferencing is available and low-friction**
