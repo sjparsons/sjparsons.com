@@ -5,7 +5,7 @@ category: remote
 excerpt: I've been working remotely for more than 2 years in multiple roles both as an individual contributor and a leader. Most recently I have been remotely leading a team of 6 -- 3 based out of an office and 3 remote. As a development manager, I hired 5 out of 6 members on my team and was able to create the team culture from scratch. I've strived to created a culture that is remote-friendly and treats everyone as equals no matter where they are located. Here are some guidelines I've followed to help to create a remote-friendly culture.
 ---
 
-I've been working remotely for more than 2 years in multiple roles both as an individual contributor and a leader. Most recently I have been remotely leading a team of 6 -- 3 based out of an office and 3 remote. As a development manager, I hired 5 out of 6 members on my team and was able to create the team culture from scratch. I've strived to created a culture that is remote-friendly and treats everyone as equals no matter where they are located.
+I've been working remotely for more than 2 years in multiple roles both as an individual contributor and a leader. Most recently I have been remotely leading a team of 6; 3 based out of an office and 3 remote. As a development manager, I hired 5 out of 6 members on my team and was able to create the team culture from scratch. I've strived to created a culture that is remote-friendly and treats everyone as equals no matter where they are located.
 
 Building a remote-friendly team is not just a random collection of things that ends up making remote work better, it actually forces a discipline and clarity of communication that makes your culture and organization stronger, leaner and more productive. If done well, adopting these things can improve the effectiveness even of a traditional office-oriented teams and allows them the flexibility to optionally work remotely when needed.
 
@@ -22,7 +22,7 @@ Here's some ideas of mediums the are open for remote people to join:
 - Video conference calls, such as [Zoom](https://zoom.us) or Google Hangouts
 - Project management services such as [Basecamp](https://basecamp.com/)
 - Forum threads
-- Blogs such as Automattic's [P2 WordPress theme](https://p2theme.com/))
+- Blogs such as Automattic's [P2 WordPress theme](https://p2theme.com/)
 
 **Project details are accessible anywhere, anytime**
 
@@ -39,7 +39,7 @@ Documenting decisions makes a place more remote-friendly, but it does more than 
 
 **Video conferencing is available and low-friction**
 
-The team needs to have a way to sync up altogether for team events such as refinement, planning, stand-ups, and retrospectives and also in smaller groups at will. This means making sure sure that there is some agreed software such as Zoom or Google Hangouts for doing so. If you have an on-premises part of your team, they need to have high quality and easy to use equipment in conference rooms. The video cameras and microphones should be high quality.
+The team needs to have a way to sync up all together for team events such as refinement, planning, stand-ups, and retrospectives and also in smaller groups at will. This means making sure that there is some agreed software such as Zoom or Google Hangouts for doing so. If you have an on-premises part of your team, they need to have high quality and easy-to-use equipment in conference rooms. If it's too hard to setup the equipment, that barrier may get in the way of impropmtu meetings that need to happen and waste lots of time setting thinngs up. If the video or audio is not high quality it can really degrade the experience for everyone.
 
 **Turn your video on**
 
