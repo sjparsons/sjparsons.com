@@ -12,7 +12,7 @@ permalink: /about/
     </figure>
 </aside>
 
-I'm a software engineer and leader. Currently, I'm a Development Manager at [SAP Concur](https://www.concur.com). I have over a decade of professional experience developing critical software applications and services for a variety of organizations in travel, higher education and government. My focus is currently on frontend JavaScript frameworks &mdash; particularly using React and GraphQL &mdash; and I bring full stack experience and an understanding of agile project management.
+I'm a software engineer and leader. Currently, I'm a Development Manager at [SAP Concur](https://www.concur.com) - opinions posted here are my own. I have over a decade of professional experience developing critical software applications and services for a variety of organizations in travel, higher education and government. My focus is currently on frontend JavaScript frameworks &mdash; particularly using React and GraphQL &mdash; and I bring full stack experience and an understanding of agile project management. 
 
 Find me elsewhere on the web:
  - [LinkedIn](https://www.linkedin.com/in/sjparsons/)
