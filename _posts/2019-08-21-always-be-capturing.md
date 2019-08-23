@@ -13,15 +13,15 @@ Although some may be more inclined to this principle than others, I contend that
 
 **In a brainstorming meeting**, get everyone to write down their ideas on post-its with sharpies. Your goal here is to gather as much as possible and you want to make sure that the good ideas don't just vanish into thin air.
 
-**In a technical discussion**, document the questions and points brought up as your meeting progresses. People are much more likely to talk and contribute if they see their contributions are being captured and have value. Making the words visible helps keep the converation focused.
+**In a technical discussion**, document the questions and points brought up as your meeting progresses. People are much more likely to talk and contribute if they see their contributions are being captured and have value. Making the words visible helps keep the conversation focused.
 
 **In an architectural discussion**, work to collaboratively create diagrams (e.g. sequence diagrams) to convey the concepts being discussed. Don't let groups talk for a long time without capturing something that reflects the concepts being discussed or proposed.
 
 **In a collaborative decision-making meeting** that requires consensus, outline the different decisions in a shared document that everyone can see and facilitate gathering pros and cons. Use the document to help work towards consensus. My underlying belief here is that when the options and reasons for/against each are made clear, 90% of decisions are made since the common sense consensus is clear. When the decision is not clear, you have gathered in one place the data needed to make the call. 
 
-**When refining user stories as a team**, capture questions and modifications to the story in real-time and use that live feeback to shape the story together.
+**When refining user stories as a team**, capture questions and modifications to the story in real-time and use that live feedback to shape the story together.
 
-**In a team retrospective**, don't just let people talk, capture what they are saying. In my team, we sometimes we use a digital post-it-and-sharpie tool (such as realtimeboard or mural); other times we have someone facilitate capturing the feedback in a text document. 
+**In a team retrospective**, don't just let people talk, capture what they are saying. In my team, we sometimes we use a digital post-it-and-sharpie tool (such as [Miro](https://miro.com/) or [Mural](https://mural.co)); other times we have someone facilitate capturing the feedback in a text document. 
 
 **When ideas come up**, have a notebook to capture them so that you can come back to them later. 
 
