@@ -33,15 +33,15 @@ One of the chapters introduces Westrum typology – a way to categorize teams ba
   - Failure leads to inquiry
   - Novelty implemented
 
-Westrum's research tied teams with generative cultures to better outcomes. The research presented in _Accelerate_ uses the same model and correlates technical teams possessing generative cultures to better performance. Interestingly, however, it's not just the research that indicates this. I think most us take a quick look at what makes a generative team and we realize that we'd like to be part of that type of culture. 
+Westrum's research tied teams with generative cultures to better outcomes. The research presented in _Accelerate_ uses the same model and correlates technical teams possessing generative cultures to better performance. However, it's not just the research that indicates this, it has a personal appeal too. I take a quick look at what makes a generative culture and I think, "that's the sort of team culture I want to be part of."
 
-As a software engineering manager, I carry the responsibility for our team delivering results. Since I began in this role I set a direction for creating the sort of team that I would like to be a part of. Learning about Westrum generative teams is really helping me understand that goal better and articulate it – great ideas give language to latent ideas. However, even more interesting is learning that creating such a generative culture has a direct bearing on the type of results we see.
-
-Interestingly, research that [Google conducted about highly effective teams](https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/content-marketing/five-dynamics-effective-team/) came up with a similar conclusion – that the following dynamics are present in highly effective teams: psychological safety, dependability, structure and clarity, meaning, impact. Most important, however, was psychological safety.
+Interestingly, research that [Google conducted about effective teams](https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/content-marketing/five-dynamics-effective-team/) came up with a similar conclusion. They identified 5 dynamics present in highly effective team – the most important by far being psychological safety.
 
 > [Psychological safety] ... was the single most important dynamic in an effective team. Psychological safety is about risk-taking and being comfortable with vulnerability. People who don’t feel psychologically safe worry that taking risks will mean they’re seen as ignorant, incompetent, negative or disruptive. Psychological safety means feeling confident about admitting mistakes, asking questions, or offering new ideas.
 
-Not only is aiming for a generative culture the right thing to do by my direct reports (hopefully they'll be happier and enjoy their work and lives more), it's the most responsible thing I could do. We can get more done together, achieve better results for the business, and enjoy it more by fostering a generative team culture. 
+This type of psychological safety is closely related to what Westrum describes as a generative team. Information is shared freely, no one is punished for failure or bringing to light undesirable information.
+
+Not only is aiming for a generative culture the right thing to do for individuals  within a team (hopefully they'll be happier and enjoy their work and lives more), it's also the most responsible thing we can do. We can get more done together, achieve better results for our organizations, and enjoy it more by fostering a generative team culture.
 
 I still have a lot to learn about how to foster a generative culture, but I'm fascinated by the far-reaching impacts that are possible by creating an environment that allow others to thrive and information to flow quickly and easily. In the information age, this is what good leadership is all about.
 
