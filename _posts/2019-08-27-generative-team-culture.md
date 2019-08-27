@@ -5,8 +5,6 @@ category: leadership
 excerpt: We can get more done together, achieve better results for the business, and enjoy it more by fostering a generative team culture.
 ---
 
-# A generative team culture
-
 I've been reading [_Accelerate: Building and Scaling High Performing Technology Organizations_](https://openlibrary.org/works/OL19542983W/Accelerate_The_Science_of_Lean_Software_and_DevOps_Building_and_Scaling_High_Performing_Technology_O) by Nicole Forsgren, Jez Humble and Gene Kim about implementing DevOps techniques and how doing so drives performance of teams. 
 
 One of the chapters introduces Westrum typology – a way to categorize teams based on their culture directly tied to their results. Dr. Ron Westrum identifies 3 different types of organizational cultures categorized by how they process information: pathological, bureaucratic and generative. In his 2005 article _A Typology of Organisational Cultures_, Westrum describes them like this:
