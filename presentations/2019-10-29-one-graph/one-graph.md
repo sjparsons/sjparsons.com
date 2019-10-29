@@ -7,14 +7,13 @@ permalink: /p/one-graph/
 
 SAP Concur is moving from multiple graphs to a unified graph and one of the greatest challenges we faced is the coordination needed between dozens of teams and product areas. I'll share the practices we used to strike a balance between creating a coherent graph and moving quickly.
 
-[Slides]
-
 <figure>
-        <a href="one-graph.pdf"><img src="{{ "/assets/images/sam.jpg" | prefix site.baseurl }}" alt="Sam Parsons in Scotland" style="width: 100%; ">
-        <figcaption>Slides for <em>Building the One-Graph Together</em></figcaption></a>
-    </figure>
+    <a href="one-graph.pdf"><img src="one-graph-slides.jpg" alt="Title slide: Building the One-Graph Together" style="width: 100%; ">
+    <figcaption>Slides for <em>Building the One-Graph Together</em></figcaption></a>
+</figure>
 
-### Resources
+
+### Further reading
 
 - [Principled GraphQL](https://principledgraphql.com/)
 - [Continuous Evolution of GraphQL Schemas @ Github](https://speakerdeck.com/xuorig/continuous-evolution-of-graphql-schemas-at-github?slide=39) by Marc-André Giroux
