@@ -5,7 +5,6 @@ email: sjparsons@gmail.com
 description: "I'm a software engineering leader who is passionate about building web services and creating effective teams."
 baseurl: ""
 url: "http://sjparsons.com"
-twitter: sjparsons
 
 permalink: "/:year/:month/:day/:title"
 
