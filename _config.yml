@@ -1,19 +1,17 @@
 # Site settings
 title: Sam Parsons
-tagline: software engineer and leader
+tagline: software engineering leader
 email: sjparsons@gmail.com
-description: "I'm a software engineer and leader who is passionate about building web apps with React and GraphQL"
+description: "I'm a software engineering leader who is passionate about building web services and creating effective teams."
 baseurl: ""
-url: "http://sjparsons.com" # the base hostname & protocol for your site
+url: "http://sjparsons.com"
 twitter: sjparsons
 
 permalink: "/:year/:month/:day/:title"
 
-# Build settings
 markdown: kramdown
 
 exclude:
-  - deploy.sh
   - README.md
   - css/bower_components
   - css/sjparsons.scss
